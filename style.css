@@ -1,0 +1,275 @@
+.main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(244, 244, 240);
+}
+
+.div1 {
+  width: 38%;
+  height: 100%;
+  background-color: aquamarine;
+  position: relative;
+  display: flex;
+}
+
+.div2 {
+  width: 165px;
+  height: 100%;
+  background-color: white;
+  border: 3px solid #ccc;
+}
+
+.div3 {
+  height: 100%;
+  width: 440px;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  border: 3px solid #ccc
+
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  object-fit: cover;
+  margin-top: 27px;
+}
+
+.contact {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20px;
+  margin-left: 25px;
+}
+
+.Skills{
+
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20 px;
+  margin-left: 25px;
+}
+
+.languages{
+
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20 px;
+  margin-left: 25px;
+}
+
+
+h4 {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  margin-left: 21px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+}
+
+.name {
+  font-size: 40px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  margin-top: 33px;
+  margin-left: 15px;
+  display: inline-block; 
+  padding-bottom: 40px; 
+  border-bottom: 3px solid black; 
+  width: 390px;
+  letter-spacing: 8px;
+}
+
+.abbas {
+  margin-left: 15px; 
+}
+
+
+
+.namediv{
+
+    width: 100%;
+    height: 17%;
+ 
+    
+    
+}
+
+.Profession{
+  position: relative;
+  top: -35px ;
+  left: 15px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+}
+
+.profile{
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20 px;
+  margin-left: 16px;
+  top: -9px;
+
+}
+
+.profiletext{
+
+  position: relative;
+  top: -12px;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  margin-left: 16px;
+}
+
+.education{
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20 px;
+  margin-left: 16px;
+}
+
+.education1{
+  font-family: "Work Sans", sans-serif;
+  margin-left: 16px;
+  font-size: 15px;
+  position: relative;
+  top: -26px;
+  font-weight: 500;
+
+}
+.educationyear1{
+  font-family: "Nunito Sans", sans-serif;
+  margin-left: 16px;
+  font-size: 14px;
+  position: relative;
+  top: -45px;
+  font-weight: 600;
+}
+
+.educationtext1{
+  position: relative;
+  top: -52px;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  margin-left: 16px;
+}
+
+.education2{
+  font-family: "Work Sans", sans-serif;
+  margin-left: 16px;
+  font-size: 15px;
+  position: relative;
+  top: -60px;
+  font-weight: 500;
+}
+
+.educationyear2{
+  font-family: "Nunito Sans", sans-serif;
+  margin-left: 16px;
+  font-size: 14px;
+  position: relative;
+  top: -78px;
+  font-weight: 600;
+}
+
+.educationtext2{
+  position: relative;
+  top: -84px;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  margin-left: 16px;
+}
+
+.experience{
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  display: inline-block;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  width: 60px;
+  height: 20 px;
+  margin-left: 16px;
+  top: -36px;
+
+}
+
+
+#content {
+  background-color: lightblue;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+
+
+.hidden{
+  display: none;
+}
+
+button{
+  margin-left: 20px;
+}
